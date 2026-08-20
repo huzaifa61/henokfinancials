@@ -36,8 +36,3 @@ Folders and files
 
 - **Other**
 	- [New%20Agents/Videos](New%20Agents/Videos) — Video assets (folder).
-
-Notes
-
-- This README lists Python scripts and Excel workbooks with brief descriptions and workspace-relative links. Open any file in your editor by clicking the link.
-- I removed Apps Script (`.gs`) templates per your request; if you want them later I can add them in a separate branch or folder.
